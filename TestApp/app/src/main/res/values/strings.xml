@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="titleScreenTextView">Calico Combs</string>
+    <string name="playButton">Play</string>
+    <string name="catImageView">Cat Image</string>
+    <string name="newGameButton">New Game</string>
+    <string name="loadGameButton">Load Game</string>
+</resources>

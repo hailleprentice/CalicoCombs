@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Favorite Things</string>
+    <string name="favoriteSeasonButton">Season</string>
+    <string name="favoriteAnimalButton">Animal</string>
+    <string name="favoriteShowButton">Show</string>
+    <string name="favoriteBookButton">Book</string>
+    <string name="favoriteWebtoonButton">Webtoon</string>
+    <string name="seasonButton">My Favorite Season is Spring</string>
+    <string name="animalButton">My Favorite Animal is a Cat</string>
+    <string name="showButton">My Favorite Show is Gravity Falls</string>
+    <string name="bookButton">My Favorite Book is The Outsiders</string>
+    <string name="webtoonButton">My Favorite Webtoon is Hardcore Leveling Warrior</string>
+</resources>
